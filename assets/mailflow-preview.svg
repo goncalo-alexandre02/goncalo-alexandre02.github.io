@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1320"/><stop offset="1" stop-color="#10151d"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c9ff66" stop-opacity=".16"/><stop offset="1" stop-color="#7895ff" stop-opacity=".1"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="26" stdDeviation="38" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1600" height="1100" fill="url(#bg)"/>
+  <circle cx="1320" cy="90" r="420" fill="url(#glow)"/>
+  <g transform="translate(120 130)" filter="url(#s)">
+    <rect width="1360" height="840" rx="34" fill="#f8fafc"/>
+    <rect width="250" height="840" rx="34" fill="#101827"/>
+    <rect x="220" width="30" height="840" fill="#101827"/>
+    <circle cx="46" cy="54" r="18" fill="#c9ff66"/>
+    <text x="78" y="62" font-family="Arial" font-size="23" font-weight="700" fill="#fff">MailFlow</text>
+    <text x="34" y="128" font-family="Arial" font-size="12" fill="#6f7b90">WORKSPACE</text>
+    <rect x="25" y="152" width="198" height="48" rx="13" fill="#1d2939"/>
+    <circle cx="48" cy="176" r="7" fill="#6ee7b7"/>
+    <text x="70" y="181" font-family="Arial" font-size="15" font-weight="700" fill="#fff">WhatsApp Inbox</text>
+    <text x="34" y="240" font-family="Arial" font-size="14" fill="#9aa6ba">Customers</text>
+    <text x="34" y="280" font-family="Arial" font-size="14" fill="#9aa6ba">Appointments</text>
+    <text x="34" y="320" font-family="Arial" font-size="14" fill="#9aa6ba">Analytics</text>
+    <text x="34" y="360" font-family="Arial" font-size="14" fill="#9aa6ba">Settings</text>
+    <text x="34" y="790" font-family="Arial" font-size="11" fill="#637089">v0.3.27 · AI-assisted</text>
+
+    <rect x="250" width="360" height="840" fill="#fff"/>
+    <text x="286" y="66" font-family="Arial" font-size="24" font-weight="700" fill="#111827">Conversations</text>
+    <rect x="282" y="92" width="296" height="46" rx="14" fill="#f1f5f9"/>
+    <text x="304" y="121" font-family="Arial" font-size="13" fill="#94a3b8">Search customers...</text>
+    <g font-family="Arial">
+      <rect x="268" y="166" width="324" height="106" rx="18" fill="#eef7ff"/>
+      <circle cx="307" cy="210" r="24" fill="#dbeafe"/><text x="301" y="217" font-size="16" font-weight="700" fill="#31588f">M</text>
+      <text x="346" y="198" font-size="15" font-weight="700" fill="#0f172a">Marta Silva</text>
+      <text x="346" y="222" font-size="12" fill="#64748b">Can I book hair + beard...</text>
+      <text x="346" y="246" font-size="10" fill="#3b82f6">AI: booking intent detected</text>
+      <circle cx="560" cy="194" r="7" fill="#22c55e"/>
+      <circle cx="307" cy="328" r="24" fill="#f1f5f9"/><text x="300" y="335" font-size="16" font-weight="700" fill="#64748b">J</text>
+      <text x="346" y="316" font-size="15" font-weight="700" fill="#0f172a">João Costa</text>
+      <text x="346" y="340" font-size="12" fill="#94a3b8">Thanks, see you tomorrow!</text>
+      <circle cx="307" cy="430" r="24" fill="#f1f5f9"/><text x="300" y="437" font-size="16" font-weight="700" fill="#64748b">A</text>
+      <text x="346" y="418" font-size="15" font-weight="700" fill="#0f172a">Ana Rocha</text>
+      <text x="346" y="442" font-size="12" fill="#94a3b8">What time do you close?</text>
+    </g>
+
+    <rect x="610" width="750" height="840" fill="#f8fafc"/>
+    <rect x="610" y="0" width="750" height="84" fill="#fff"/>
+    <circle cx="654" cy="42" r="22" fill="#dbeafe"/>
+    <text x="648" y="49" font-family="Arial" font-size="16" font-weight="700" fill="#31588f">M</text>
+    <text x="690" y="36" font-family="Arial" font-size="15" font-weight="700" fill="#111827">Marta Silva</text>
+    <text x="690" y="57" font-family="Arial" font-size="11" fill="#64748b">WhatsApp · +351 9•• ••• •••</text>
+    <rect x="1114" y="24" width="112" height="36" rx="18" fill="#ecfdf5"/>
+    <text x="1140" y="47" font-family="Arial" font-size="11" font-weight="700" fill="#15803d">AI active</text>
+    <g font-family="Arial">
+      <rect x="675" y="145" width="360" height="72" rx="18" fill="#fff"/>
+      <text x="696" y="175" font-size="13" fill="#334155">Hi! Can I book hair + beard</text><text x="696" y="195" font-size="13" fill="#334155">for Friday afternoon?</text>
+      <rect x="910" y="248" width="365" height="86" rx="18" fill="#dff7e8"/>
+      <text x="934" y="278" font-size="13" fill="#1f5133">Absolutely — I found availability.</text>
+      <text x="934" y="300" font-size="13" fill="#1f5133">Would 15:30 work for you?</text>
+      <text x="1212" y="321" font-size="9" fill="#4f8061">AI-assisted</text>
+      <rect x="710" y="386" width="528" height="232" rx="24" fill="#fff" stroke="#e2e8f0"/>
+      <text x="742" y="424" font-size="11" font-weight="700" fill="#64748b">PROPOSED APPOINTMENT</text>
+      <text x="742" y="463" font-size="24" font-weight="700" fill="#0f172a">Hair + Beard</text>
+      <text x="742" y="495" font-size="13" fill="#64748b">Friday · 15:30 · 60 min · €25</text>
+      <rect x="742" y="532" width="195" height="48" rx="12" fill="#111827"/><text x="790" y="562" font-size="12" font-weight="700" fill="#fff">Confirm booking</text>
+      <rect x="950" y="532" width="130" height="48" rx="12" fill="#f1f5f9"/><text x="986" y="562" font-size="12" font-weight="700" fill="#475569">Change</text>
+      <circle cx="1190" cy="558" r="20" fill="#ecfdf5"/><text x="1182" y="564" font-size="14" fill="#16a34a">✓</text>
+    </g>
+    <rect x="666" y="746" width="632" height="56" rx="18" fill="#fff" stroke="#e2e8f0"/>
+    <text x="692" y="781" font-family="Arial" font-size="13" fill="#94a3b8">Write a reply...</text>
+    <circle cx="1260" cy="774" r="18" fill="#111827"/>
+    <path d="M1254 774h12M1262 768l6 6-6 6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

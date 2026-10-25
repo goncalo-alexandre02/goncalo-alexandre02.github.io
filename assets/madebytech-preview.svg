@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 980">
+  <defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5622aa"/><stop offset=".55" stop-color="#7d39d0"/><stop offset="1" stop-color="#a84ee0"/></linearGradient></defs>
+  <rect width="1400" height="980" fill="url(#p)"/>
+  <circle cx="1170" cy="120" r="360" fill="#fff" fill-opacity=".08"/>
+  <text x="110" y="128" font-family="Arial" font-size="26" font-weight="800" fill="#fff">madeByTech</text>
+  <text x="110" y="210" font-family="Arial" font-size="64" font-weight="700" fill="#fff">Good design.</text>
+  <text x="110" y="278" font-family="Arial" font-size="64" font-weight="700" fill="#fff">Good for business.</text>
+  <text x="110" y="332" font-family="Arial" font-size="18" fill="#e7d9f5">Websites, apps and dashboards built to move businesses forward.</text>
+  <rect x="110" y="378" width="178" height="50" rx="25" fill="#ff5b6e"/><text x="151" y="409" font-family="Arial" font-size="12" font-weight="700" fill="#fff">Request a quote</text>
+  <g transform="translate(735 170)">
+    <rect x="0" y="90" width="260" height="540" rx="42" fill="#17181d"/>
+    <rect x="15" y="105" width="230" height="510" rx="32" fill="#f4f1ff"/>
+    <rect x="87" y="117" width="86" height="18" rx="9" fill="#17181d"/>
+    <rect x="38" y="170" width="154" height="92" rx="22" fill="#7a35cf"/>
+    <rect x="38" y="290" width="154" height="16" rx="8" fill="#d9c7ef"/>
+    <rect x="38" y="322" width="120" height="16" rx="8" fill="#e6dcef"/>
+    <rect x="38" y="375" width="182" height="150" rx="24" fill="#eee8f8"/>
+    <circle cx="103" cy="442" r="38" fill="#ff6677"/>
+    <rect x="114" y="0" width="280" height="580" rx="46" fill="#101114"/>
+    <rect x="130" y="16" width="248" height="548" rx="34" fill="#fff"/>
+    <rect x="222" y="28" width="64" height="17" rx="8" fill="#111"/>
+    <rect x="158" y="78" width="192" height="170" rx="28" fill="#5c24b0"/>
+    <text x="178" y="124" font-family="Arial" font-size="11" font-weight="700" fill="#d8c2ef">DIGITAL PRODUCTS</text>
+    <text x="178" y="165" font-family="Arial" font-size="28" font-weight="700" fill="#fff">Design.</text>
+    <text x="178" y="198" font-family="Arial" font-size="28" font-weight="700" fill="#fff">Develop.</text>
+    <rect x="158" y="281" width="192" height="55" rx="18" fill="#f3eff9"/>
+    <rect x="158" y="355" width="192" height="55" rx="18" fill="#f3eff9"/>
+    <rect x="158" y="429" width="192" height="55" rx="18" fill="#f3eff9"/>
+  </g>
+</svg>

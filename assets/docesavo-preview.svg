@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="850" viewBox="0 0 1100 850" role="img" aria-labelledby="title desc">
+<title id="title">DocesAvo concept presentation</title><desc id="desc">Illustrative concept mockup for the DocesAvo project, not a screenshot of the current website.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f8ebd7"/><stop offset="1" stop-color="#e3cba8"/></linearGradient><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffef9"/><stop offset="1" stop-color="#f7efdf"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="24" stdDeviation="25" flood-color="#7e513e" flood-opacity=".21"/></filter><pattern id="grain" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="5" cy="7" r="1" fill="#a47457" opacity=".11"/></pattern></defs>
+<rect width="1100" height="850" fill="url(#bg)"/><rect width="1100" height="850" fill="url(#grain)"/>
+<circle cx="993" cy="110" r="290" fill="#fff3df" opacity=".6"/><circle cx="110" cy="810" r="230" fill="#d9ae8d" opacity=".2"/>
+<g transform="translate(98 116)" filter="url(#shadow)"><rect width="904" height="604" rx="24" fill="url(#card)"/>
+<rect width="904" height="70" rx="24" fill="#fffdf6"/><rect y="52" width="904" height="18" fill="#fffdf6"/><path d="M0 70 H904" stroke="#e9d9c8"/>
+<circle cx="30" cy="35" r="6" fill="#bd806b"/><circle cx="51" cy="35" r="6" fill="#e0b99d"/><circle cx="72" cy="35" r="6" fill="#efdcc4"/>
+<text x="452" y="44" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-weight="bold" fill="#6b4536">DocesAvo</text>
+<text x="70" y="148" font-family="Arial,sans-serif" font-size="13" letter-spacing="4" fill="#9d7158">A SWEETER TRADITION</text>
+<text x="70" y="222" font-family="Georgia,serif" font-size="64" fill="#573729">Made with</text><text x="70" y="291" font-family="Georgia,serif" font-size="64" font-style="italic" fill="#b57b5c">love &amp; tradition.</text>
+<text x="72" y="338" font-family="Arial,sans-serif" font-size="17" fill="#886f5e">A digital concept for authentic Portuguese sweets.</text>
+<rect x="72" y="382" rx="23" width="203" height="46" fill="#6b4434"/><text x="173" y="411" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#fff7eb" text-anchor="middle">EXPLORE CONCEPT</text>
+<g transform="translate(635 285)"><ellipse cx="32" cy="165" rx="200" ry="85" fill="#e0c7a4"/><ellipse cx="32" cy="143" rx="191" ry="76" fill="#fffdf7" stroke="#b69879" stroke-width="5"/><ellipse cx="32" cy="142" rx="164" ry="54" fill="#f3e8d4"/>
+<g fill="#b77845" stroke="#8e5631" stroke-width="4"><circle cx="-60" cy="116" r="47"/><circle cx="42" cy="103" r="51"/><circle cx="130" cy="136" r="43"/><circle cx="-5" cy="167" r="47"/></g><g fill="#f4d78d"><circle cx="-60" cy="116" r="34"/><circle cx="42" cy="103" r="37"/><circle cx="130" cy="136" r="30"/><circle cx="-5" cy="167" r="33"/></g><g stroke="#be8c45" stroke-width="5" opacity=".8" fill="none"><path d="M-78 104q18-23 36 0t-36 25"/><path d="M19 89q25-20 45 10t-28 25"/><path d="M-26 155q22-20 42 10"/></g></g>
+<path d="M70 500 H836" stroke="#e8d8c4"/><text x="70" y="542" font-family="Georgia,serif" font-size="21" fill="#6b4536">Heritage. Craft. Sweetness.</text><text x="834" y="542" font-family="Arial,sans-serif" font-size="10" text-anchor="end" letter-spacing="2" fill="#ab8f79">VISUAL CONCEPT</text>
+</g><text x="99" y="773" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#805e4a">PROJECT CONCEPT · ANGULAR / IONIC</text>
+</svg>
